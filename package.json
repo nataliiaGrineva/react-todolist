@@ -3,9 +3,9 @@
   "homepage": ".",
   "version": "0.1.0",
   "keywords": [],
-  "author": "Mate Academy",
   "license": "GPL-3.0",
   "dependencies": {
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
